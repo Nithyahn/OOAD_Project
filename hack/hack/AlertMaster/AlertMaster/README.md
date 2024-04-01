@@ -61,11 +61,3 @@ All API endpoint must use the api/v1 prefix.
 | PATCH /interventions/\<intervention-id>/status           | Change the status of an intervention report |
 | PATCH /red-flags/\<red-flag-id>/status                   | Change the status of a red-flag report |
 
-## API Documentation
-https://app.swaggerhub.com/apis/andela51/1-i_reporter/1.0
-
-
-
-## Author
-
-Okosun Valentine Ejodamen
