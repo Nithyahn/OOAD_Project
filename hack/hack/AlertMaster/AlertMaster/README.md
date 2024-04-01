@@ -29,17 +29,6 @@ Install Node Js and Git
 - Node Js
 - Git
 
-To run:
-```
-$ git clone https://github.com/valenstical/ireporter.git
-$ cd ireporter
-$ npm install
-$ npm start
-```
-## Testing
-```
-$ npm test
-```
 
 ## Pivotal Tracker stories
 View the pivotal tracker stories for this project here [https://www.pivotaltracker.com/projects/2227161](https://www.pivotaltracker.com/projects/2227161)
