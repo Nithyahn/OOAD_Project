@@ -1,16 +1,30 @@
-# ahana
+# Ahana 🌸
 
-Salesforce Product Jam Prototype
+**Salesforce Product Jam Prototype**
 
-## Getting Started
+Ahana is a **Flutter-based mobile application** designed to support young girls during puberty through a combination of health tracking, educational content, and expert support.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Developed a Flutter-based app for puberty support, integrating:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-  Nutritional food shopping
+-  Menstrual cycle tracking
+-  Expert consultations
+-  Region-specific food recommendations
+-  Symptom logging and personalized suggestions
+-  Community support and educational resources
+
+---
+
+## 📽️ Demo Video
+
+👉 https://drive.google.com/file/d/1Wnpkm7GJ6U5H0Kg2RUIIP0rkyvCqPCCx/view?usp=drive_link
+
+---
+
+
+
+
