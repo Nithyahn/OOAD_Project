@@ -49,7 +49,7 @@ const Home = () => {
       </div>
 
       <img
-        className="w-3/5 -mt-14 -mr-14 animate-horizontal-spin"
+       className="w-2/5 mt-5 -ml-14 animate-horizontal-spin"
         src={mypic}
         alt="mypic"
       />
