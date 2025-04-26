@@ -1,5 +1,5 @@
 **Smart Waste Management System**
-📜 Problem Statement
+📜 Problem Statement: "\n"
 Improper waste disposal contributes to environmental degradation and public health hazards. The lack of awareness, infrastructure, and incentives for proper waste segregation and disposal further exacerbates the problem. This project aims to help users identify, manage, and dispose of waste responsibly by leveraging technology, location-based services, and a reward system for good practices.
 
 💡 Key Features
@@ -15,8 +15,10 @@ User Dashboard: Allows users to view their disposal history, track progress, and
 
 Carbon Emission Calculator: Calculates the environmental impact of improper disposal versus proper methods, showcasing the benefits of responsible waste management.
 
-By,
+**By,
   Nithya HN
   Pavitra
   Pooja
   Pallavi
+**
+**Vercel : https://project1-tau-olive.vercel.app/**
